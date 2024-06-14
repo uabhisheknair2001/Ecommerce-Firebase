@@ -1,0 +1,30 @@
+.root{
+    background-color: black;
+    color: chocolate;
+    font-size: 1.4rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar .leftside .logo {
+    width: 80px;
+    height: 80px;
+    margin-left: 40px;
+    border: 10px;
+    border-color: #ffffff;
+    box-shadow: #ffffff;
+}
+
+
+.navbar {
+    background-color: rgb(161, 147, 177);
+}
+
+.navbar .rightside .navlink{
+    color: #ffffff;
+    text-decoration-color: beige;
+}
+
+.navbar .rightside {
+    color: #ffffff;
+    
+}

@@ -1,0 +1,29 @@
+.product {
+    background-color: rgb(216, 216, 216);
+    color: black;
+    width: 300px;
+    height: 600px;
+    align-content: center;
+}
+
+.product .product-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+.product .product-text {
+    color: rgb(0, 0, 0);
+    padding: -20px;
+
+}
+
+
+.product .btn{
+    color: rgb(255, 255, 255);
+    font-weight: 20px;
+    background-color: rgb(77, 168, 89);
+    margin-top: 20px;
+    position: relative;
+}

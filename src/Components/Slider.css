@@ -1,0 +1,12 @@
+.carousel-item {
+    width: 1920px;
+    height: 500px;
+    position: relative;
+}
+.carousel-inner .carousel-caption {
+    font-size: 4.8rem;
+    align-items: center;
+    margin-left: -400px;
+    margin-bottom: 100px;
+}
+
